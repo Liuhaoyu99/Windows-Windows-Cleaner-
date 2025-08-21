@@ -132,7 +132,7 @@ Windows 清理工具是一款专为 Windows 操作系统设计的实用程序，
 如果您在使用过程中遇到问题或有改进建议，欢迎通过以下方式联系开发者：
 
 - **GitHub 项目**：https://github.com/Liuhaoyu99/Windows-Windows-Cleaner-
-- **电子邮件**：请在 GitHub 项目页面查找开发者的联系方式。
+- **电子邮件**：liuhaoyumama20242024@outlook.com
 
 ## 许可证
 
